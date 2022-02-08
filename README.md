@@ -1,1 +1,1 @@
-# project-new
+Este proyecto es para usar git
